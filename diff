@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>For My Favourite Human ❤️</title>
+<style>
+body{
+background:#ffe6ec;
+font-family:Arial;
+text-align:center;
+padding:60px;
+}
+.card{
+background:white;
+padding:30px;
+border-radius:20px;
+display:inline-block;
+box-shadow:0 0 20px rgba(0,0,0,0.1);
+}
+button{
+padding:12px 20px;
+border:none;
+border-radius:12px;
+background:#ff4d6d;
+color:white;
+font-size:16px;
+}
+</style>
+</head>
+
+<body>
+<div class="card">
+<h1>Happy Valentine’s Day ❤️</h1>
+<p>I literally opened GitHub for you… please appreciate.</p>
+<p>You are my chaos, comfort, and favourite person.</p>
+
+<button onclick="alert('I love you more than momos 😭❤️')">
+Click Me 😌
+</button>
+</div>
+</body>
+</html>
